@@ -1,0 +1,6 @@
+{
+  "name": "Staging 366",
+  "description": "Staging upgrade issue 366",
+  "compatibility": ">=1.0.0",
+  "dependencies": ["http://path.to.other.extension"]
+}
